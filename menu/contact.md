@@ -2,5 +2,6 @@
 layout: page
 title: Contact
 ---
+If you have any question about the content of this site or would just like to get in touch with me, use the social buttons below.
 
-If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
+In the future I will probably add a contact form but for now email is the best way to reach me.
