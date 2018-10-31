@@ -7,7 +7,7 @@ title: About Me
 
 My name is Matthew Cox and I am currently in my senior year majoring in Electrical Engineering at the University of Connecticut. My expected graduation date is May 2019. I am passionate about working with and building hardware projects but am particulary interested in embedded systems. 
 
-I have experience writing code for microcontrollers as well as working with VHDL synthesized on FPGAs. These are topics I have the most experience but I also enjoy working on or with the following:
+I have experience writing code for microcontrollers as well as working with VHDL synthesized on FPGAs. These are topics I have the most experience with but I also enjoy working on or with the following:
 
 - Digital Signal Processing
 - Digital Communication
@@ -32,7 +32,4 @@ This website was built using the following tools:
 
 All of the code is hosted on my Github and all of the themes used are licensed under the MIT license which means the code for this site is as well.
 
-Even though the themes are licensed, the content posted on this site is Copyrighted. 
-
-
-* Read More. Link to license on github
+Even though the themes are licensed, the content posted on this site is Copyrighted. [Read More](https://github.com/mcox53/portfolio-website-jekyll/blob/gh-pages/LICENSE.md)
