@@ -18,7 +18,7 @@ title: Test
 		
 		<article class="post-item">
 			<span class = "post-meta date-label">{{ post.data | date: "%b %d" }}</span>
-			<div class = "article-title"><a class="post-link" href={{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></div>
+			<div class = "article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></div>
 		</article>
 	
 	{% endfor %}
