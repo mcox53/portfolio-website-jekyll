@@ -176,6 +176,18 @@ hr {
   
 }
 
+.post-meta {
+  text-transform: uppercase:
+  display: inline-block;
+  letter-spacing: 1px;
+  font-size: rem(14);
+  margin-bottom: 1 px;
+}
+
+.article-title {
+   border-bottom: none !important;
+}
+
 @media (max-width: 30rem) {
   .posts h1 {
     font-size: 1.5rem;

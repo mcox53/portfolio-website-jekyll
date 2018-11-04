@@ -2,7 +2,7 @@
 layout: page
 title: Test
 ---
-<section class="posts">
+<section class="post-list">
 	<div class = "container">
 		{% for post in site.posts %}
 		{% unless post.next %}
@@ -18,9 +18,11 @@ title: Test
 		
 		<article class="post-item">
 			<span class = "post-meta date-label">{{ post.data | date: "%b %d" }}</span>
-			<div class = "article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></div>
+			<div class = "article-title">
+				<a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
+			</div>
 		</article>
 	
-	{% endfor %}
+		{% endfor %}
 	</div>
 </section>
