@@ -22,4 +22,5 @@ title: Test
 		</article>
 	
 	{% endfor %}
-</ul>
+	</div>
+</section>
