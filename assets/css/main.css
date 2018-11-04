@@ -157,6 +157,25 @@ hr {
   font-size:0.8rem;
 }
 
+
+.post-item{
+  margin-bottom: 0.2em;
+  display: block;
+  
+  .article-title {
+	display: inline-block;
+	width: 85%;
+  }
+  
+  .date-label {
+	padding: 0 0 0.2em;
+	margin-left: 1em;
+	margin-top: 2px;
+	@extend .pull-right;
+  }
+  
+}
+
 @media (max-width: 30rem) {
   .posts h1 {
     font-size: 1.5rem;
