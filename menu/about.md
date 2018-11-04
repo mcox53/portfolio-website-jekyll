@@ -5,15 +5,18 @@ title: About Me
 
 #### Welcome!
 
-My name is Matthew Cox and I am currently in my senior year majoring in Electrical Engineering at the University of Connecticut. My expected graduation date is May 2019. I am passionate about working with and building hardware projects but am particulary interested in embedded systems. 
+My name is Matthew Cox and I am currently in my senior year majoring in Electrical Engineering at the University of Connecticut. I will be graduating in May 2019. I really enjoy most aspects of electrical engineering but am particulary interested in embedded systems. I have experience working with microcontrollers as well as FPGAs and I am constantly learning more. 
 
-I have experience writing code for microcontrollers as well as working with VHDL synthesized on FPGAs. These are topics I have the most experience with but I also enjoy working on or with the following:
+I have the most experience in embedded systems but I also enjoy working on or with the following:
 
 - Digital Signal Processing
 - Digital Communication
 - RF & Microwave Electronics
+- Systems and Control Theory
 
-When not in class or working you can find me at the UConn Formula SAE shop building fast racecars, reading, or exercising.
+Outside of electrical engineering I am particularly interested in cars, artifical intelligence and the nature of consciousness as well as learning about and studying the human body as it relates to health and well-being.
+
+When not in class or working you can find me reading, exercising or at the UConn Formula SAE shop building fast racecars.
 
 ### This Website:
 
