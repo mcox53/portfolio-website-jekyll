@@ -17,7 +17,7 @@ title: Test
 	
 		
 		<article class="post-item">
-			<span class = "post-meta date-label">{{ post.data | date: "%b %d" }}</span>
+			<span class = "post-meta date-label">{{ post.date | date: "%b %d" }}</span>
 			<div class = "article-title">
 				<a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
 			</div>
