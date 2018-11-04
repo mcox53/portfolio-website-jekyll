@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Current Projects"
+title: "Outlining an Independent Study"
 author: "Matthew Cox"
 categories: journal
 tags: [documentation,independent_study]
