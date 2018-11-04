@@ -33,6 +33,6 @@ This website was built using the following tools:
 	- Thinkspace by [Heiswayi Nrird](https://github.com/heiswayi).
 - Hosted and implemented with [Netlify](https://www.netlify.com/).
 
-All of the code is hosted on my Github and all of the themes used are licensed under the MIT license which means the code for this site is as well.
+All of the code is hosted on my [Github](https://github.com/mcox53) and all of the themes used are licensed under the MIT license which means the code for this site is as well.
 
 Even though the themes are licensed, the content posted on this site is Copyrighted. [Read More](https://github.com/mcox53/portfolio-website-jekyll/blob/gh-pages/LICENSE.md)
