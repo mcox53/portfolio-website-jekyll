@@ -16,7 +16,7 @@ title: Test
 		{% endunless %}
 	
 		
-		<article class = "post-item">
+		<article class="post-item">
 			<span class = "post-meta date-label">{{ post.data | date: "%b %d" }}</span>
 			<div class = "article-title"><a class="post-link" href={{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}
 		</article>
