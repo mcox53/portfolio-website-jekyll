@@ -1,5 +1,9 @@
 <head>
 
+  {% if site.tags != "" %}
+	{% include collecttags.html %}
+  {% endif %}
+
   <title>
     {% if page.title == "Home" %}
       {{ site.title }} | {{ site.description }}
