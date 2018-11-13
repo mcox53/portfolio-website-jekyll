@@ -43,7 +43,7 @@ To interface with the CAN Bus network running on our car we will go with the tri
 
 The image below is a quick block diagram I came up with for the board:
 
-[PressureScannerBlockDiagram](/assets/img/Proposed_Block_Diagram2.png)
+![PressureScannerBlockDiagram](/assets/img/Proposed_Block_Diagram2.png)
 
 #### Next Steps
 
