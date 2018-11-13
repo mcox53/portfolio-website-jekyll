@@ -5,7 +5,7 @@ title: About Me
 
 #### Welcome!
 
-My name is Matthew Cox and I am currently in my senior year majoring in Electrical Engineering at the University of Connecticut. I will be graduating in May 2019. I really enjoy most aspects of electrical engineering but am particulary interested in embedded systems. If you want to learn more about my work and experience please check out the [Work]({{ site.url }} /menu/work.html) page.
+My name is Matthew Cox and I am currently in my senior year majoring in Electrical Engineering at the University of Connecticut. I will be graduating in May 2019. If you want to learn more about my work and experience please check out the [Work]({{ site.url }} /menu/work.html) page.
 
 Outside of school, I am particularly interested in cars, artifical intelligence and the nature of consciousness as well as learning about and studying the human body as it relates to health and well-being.
 
