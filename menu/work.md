@@ -11,6 +11,8 @@ I am currently still in school but am looking to begin a full time job after I g
 
 My current resume is available [HERE]({{ site.url }}/assets/files/matthew_cox_resume.pdf) but I go a little more in depth about certain things on this page.
 
+Check out my [Github](https://github.com/mcox53) for sources to most things mentioned here. I am not able to post some things such as homework solutions or projects for classes but if you would like to see some more code, just ask me.
+
 #### Interests
 
 I really enjoy most aspects of electrical engineering but am particulary interested in embedded systems. I love the idea of working with software/firmware that directly interfaces and controls hardware. 
@@ -89,7 +91,7 @@ Skills: PCB design, PCB thermal management, PSPICE, Power switching w/ P-Channel
 
 ##### Wrap up
 
-If you want to check out other smaller projects I've done feel free to check out my [Github](https://github.com/mcox53/) , click on a link below or shoot me an email. I'd love to hear from you!
+If you want to check out other smaller projects ot learn more about a specific project I've done feel free to click on a link below or shoot me an email. I'd love to hear from you!
 
 These links will either jump to a dedicated project page or will go to the blog section with that projects dedicated tag when the tagging system is implemented :(
 
