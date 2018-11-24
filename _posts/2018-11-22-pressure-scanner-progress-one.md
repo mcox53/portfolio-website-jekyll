@@ -4,6 +4,7 @@ title: "Pressure Scanner Board: Progress I"
 author: "Matthew Cox"
 categories: journal
 tags: [documentation, independent_study, pressure_scanner]
+image: mcu_kicad.png
 ---
 
 Since the last time I posted about the board a good amount of stuff has happened. My teammate and I have shifted our focus to working on the layout and setup of the MCU. This is a critical step because we will buying an SAMD21 off the shelf and then loading the arduino bootloader onto it ourselves. The following considerations come into play:
