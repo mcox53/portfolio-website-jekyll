@@ -31,9 +31,9 @@ No. Not even close.
 
 With ARM and ASF (mostly ASF) there are a million settings and configuration files just to get the board up and running. Coming from programming an atmega328p on the regular, this seems wild to me but I guess its necessary given the jump to a 32-bit architecture.
 
-So I spent the first 30 minutes trying to figure out why my UART was not displaying anything even though I had configure it according to the documentation. While doing so I tried out the Serial Wire Debug interface and I am in love. I wish setting up Debug Wire on the 328p was as easy as using the SWD interface.
+So I spent the first 30 minutes trying to figure out why my UART was not displaying anything even though I had configured it according to the documentation. While doing so I tried out the Serial Wire Debug interface and I am in love. I wish setting up Debug Wire on the 328p was as easy as using the SWD interface.
 
-This is where I got wind that it wasn't getting past the setup stage. I then read more of the ASF documentation and realized that I needed to configure the clock. :/
+This is where I got wind that it wasn't getting past the setup stage. I then read more of the ASF documentation and realized that I needed to configure the clock. :(
 
 I finally found some clock settings for the peripheral demo I was using and recompiled. For some reason it still wasn't getting past setup and synchronizing with the PLL.
 
