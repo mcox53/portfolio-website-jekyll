@@ -19,7 +19,7 @@ So today's event happened while I was trying to run some demo code on a new dev 
 
 For this trial I decided to take some demo code and modify it in order to get acquainted with the setup and operation of the peripheral in question. Now the demo code was available from the Atmel ASF documentation site so I just simply copied this into my main.c file. 
 
-Where I went wrong are the configuration files. within the ASF, there are modules you import that act as drivers for different peripherals or operation of the MCU. You import the modules you need for the project. If a module requires configuration it will drop a xxx_conf.h file into the src/config folder in your project.
+Where I went wrong are the configuration files. within the ASF, there are modules you import that act as drivers for different peripherals or operation of the MCU. You import the modules you need for the project. If a module requires configuration it will drop a conf_xxx.h file into the src/config folder in your project.
 
 ![config_files](/assets/img/config_files.png)
 
