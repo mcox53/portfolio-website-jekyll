@@ -19,7 +19,7 @@ The other purpose of this website is to document the independent study I plan to
 
 * Add link to Independent study tag here once tagging system is implemented :(
 
-### Parts of this website are still being developed and certain functionality many not be available yet :(
+### Parts of this website are still being developed and certain functionality many not be available yet... :(
 
 This website was built using the following tools:
 - Built using [Jekyll](https://jekyllrb.com/).
