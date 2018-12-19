@@ -66,4 +66,4 @@ This was just silly. I shouldn't have used it at all since I couldn't even write
 I shouldn't even have to write this, I know this all too well.
 
 
-This definitely kicked my ego down which is what I needed. Lesson definitely learned on this one.
+This definitely humbled me which is what I needed. Lesson definitely learned on this one.
