@@ -13,6 +13,7 @@ There are two plans: One for microcontrollers and one for FPGAs.
 Links to both:
 
 [Independent Study Plans - MCUs](/assets/files/MCU-Plans.pdf)
+
 [Independent Study Plans - FPGAs](/assets/files/FPGA-Plans.pdf)
 
 #### Method
