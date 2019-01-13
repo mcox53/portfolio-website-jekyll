@@ -1,7 +1,6 @@
 ---
 layout: page
 title: What I'm Doing Now
-permalink: /now/
 ---
 
 I am currently living in Willington, CT while preparing to start my final semester at the University of Connecticut. I am beginning to prepare for my transition to the 'real world' that is post grad life.
