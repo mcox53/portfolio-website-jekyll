@@ -17,9 +17,7 @@ I created this website as a personal portfolio site and as a way to write about 
 
 The other purpose of this website is to document the independent study I plan to pursue during the Spring 2019 Semester. If you want to learn more about that, click the link below.
 
-* Add link to Independent study tag here once tagging system is implemented :(
-
-### Parts of this website are still being developed and certain functionality many not be available yet... :(
+[Independent Study Posts]({{ site.url }} /tags/#independent-study)
 
 This website was built using the following tools:
 - Built using [Jekyll](https://jekyllrb.com/).

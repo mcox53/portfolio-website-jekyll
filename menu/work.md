@@ -3,8 +3,6 @@ layout: page
 title: Work
 ---
 
-### ! Page Under Construction - 11/13/18 !
-
 #### Employment Status: Student
 
 I am currently still in school but am looking to begin a full time job after I graduate.
@@ -35,8 +33,6 @@ Being so early on in my career, I haven't really decided on a certain industry b
 - RF/Wireless
 - Consumer Electronics
 - Medical Devices
-
-Honestly, a job in any of these fields would be enjoyable for me.
 
 #### Experience
 
