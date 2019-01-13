@@ -3,7 +3,7 @@ disqus:
   comments: false
   disqus_shortname: ''
 
-#google-ID: ''
+google-ID: 'UA-132340157-1'
 
 menu:
 - {name: 'About', path: 'menu', url: 'about.html'}
