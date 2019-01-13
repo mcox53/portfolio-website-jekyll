@@ -28,6 +28,7 @@ This website was built using the following tools:
 	- Thinkspace by [Heiswayi Nrird](https://github.com/heiswayi).
 - Code borrowed or inspired by:
 	- [Long Qian](https://longqian.me)
+	- [Michael Lee](https://michaelsoolee.com)
 - Hosted and implemented with [Netlify](https://www.netlify.com/).
 
 All of the code is hosted on my [Github](https://github.com/mcox53) and all of the themes used are licensed under the MIT license which means the code for this site is as well.
