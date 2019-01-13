@@ -1,6 +1,7 @@
 ---
 layout: page
 title: What I'm Doing Now
+permalink: /now/
 ---
 
 I am currently living in Willington, CT while preparing to start my final semester at the University of Connecticut. I am beginning to prepare for my transition to the 'real world' that is post grad life.
@@ -25,4 +26,4 @@ Besides that I am doing the following:
 
 Everything else I will say no to. If something happens to change, I'll update this page to reflect those changes. Last update was January 13th, 2019.
 
-* This is a Now page. It was inspired by [Thomas Frank](https://collegeinfogeek.com/now/) and [Derek Sivers](https://sivers.org/now) many years ago and now that I have my own website it is finally a reality. If you want to learn more about now pages and see thousands of other examples click [here](https://nownownow.com/about)
+*This is a Now page. It was inspired by [Thomas Frank](https://collegeinfogeek.com/now/) and [Derek Sivers](https://sivers.org/now) many years ago and now that I have my own website it is finally a reality. If you want to learn more about now pages and see thousands of other examples click [here](https://nownownow.com/about)*
