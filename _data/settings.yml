@@ -31,3 +31,5 @@ sharing_button_prompt: 'Feel free to share!'
 related_posts: 'Related:'
 
 post_date_prefix: 'Written on'
+
+tag_page: '/tags/'
