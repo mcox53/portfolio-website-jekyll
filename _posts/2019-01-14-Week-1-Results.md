@@ -4,7 +4,7 @@ title: "Independent Study: Week 1"
 author: "Matthew Cox"
 categories: journal
 tags: [documentation,independent_study]
-image: lab6_sim.png
+image: waveform.png
 ---
 
 Week 1 of my documented independent study has officially died down and didn't quite go as expected. While I did get a lot of work done, most of it was not for the independent study. 
